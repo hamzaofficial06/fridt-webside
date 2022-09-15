@@ -1,2 +1,2 @@
-# fridt-webside
+# frist-webside
 new repository
