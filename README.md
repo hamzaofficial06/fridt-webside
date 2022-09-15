@@ -1,0 +1,2 @@
+# fridt-webside
+new repository
